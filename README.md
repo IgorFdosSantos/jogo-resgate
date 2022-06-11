@@ -1,2 +1,2 @@
 # jogo-resgate
-Desafio de Códigpo da DIO
+Desafio de Código da DIO
